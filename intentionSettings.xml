@@ -1,5 +1,9 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Kotlin/Put arguments on separate lines" />
+    <ignoreAction name="Kotlin Android/Add Parcelable Implementation" />
+    <ignoreAction name="Android/Add Parcelable Implementation" />
+    <ignoreAction name="Kotlin Android/Remove Parcelable Implementation" />
+    <ignoreAction name="Kotlin Android/Replace Parcelable Implementation" />
   </component>
 </application>
